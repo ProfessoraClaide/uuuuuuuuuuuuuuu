@@ -1,7 +1,11 @@
 header{
     background-color: aqua;
+
 }
-ul{display: block;
-    background-color:blue ;
+div{
+    ul{display: block;
+        background-color:blue ;
+    
+}
 
 }
